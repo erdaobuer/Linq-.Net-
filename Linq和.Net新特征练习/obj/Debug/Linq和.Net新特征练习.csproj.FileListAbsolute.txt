@@ -1,0 +1,5 @@
+E:\VS_WrokSpace\Linq和.Net新特征练习\Linq和.Net新特征练习\bin\Debug\Linq和.Net新特征练习.exe
+E:\VS_WrokSpace\Linq和.Net新特征练习\Linq和.Net新特征练习\bin\Debug\Linq和.Net新特征练习.pdb
+E:\VS_WrokSpace\Linq和.Net新特征练习\Linq和.Net新特征练习\obj\Debug\Linq和.Net新特征练习.csproj.CoreCompileInputs.cache
+E:\VS_WrokSpace\Linq和.Net新特征练习\Linq和.Net新特征练习\obj\Debug\Linq和.Net新特征练习.exe
+E:\VS_WrokSpace\Linq和.Net新特征练习\Linq和.Net新特征练习\obj\Debug\Linq和.Net新特征练习.pdb
